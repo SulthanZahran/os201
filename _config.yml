@@ -28,7 +28,7 @@ github_username:  SulthanZahran
 author: "Sulthan Zahran Sunata"
 
 # Build settings
-theme: jekyll-time-machine
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
