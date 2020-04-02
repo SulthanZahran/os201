@@ -22,7 +22,6 @@ title: halo
 email: sulthan.zahran0709@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Selamat Datang!!!
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sulthanzahran.github.io/os201/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zahran0709
 github_username:  SulthanZahran
