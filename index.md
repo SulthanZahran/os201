@@ -6,5 +6,5 @@ layout: default
 ---
 <p>Nama : Sulthan Zahran Sunata</p>
 <div>    
-    <a href="URLs">link-link berguna seputar Sistem Operasi</a>
+    <a href="https://sulthanzahran.github.io/os201/URLs">link-link berguna seputar Sistem Operasi</a>
 </div>
