@@ -1,0 +1,34 @@
+Script started on Tue 09 Jun 2020 03:48:50 AM WIB
+sulthan.zahran@badak:~$ PS1="$ "
+$ echo $GitHubUser
+SulthanZahran
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200609-034856-d026-sulthan.zahran/>
+$ PS1="\$(eval \$PSTAMP)"
+200609-034856-d026-sulthan.zahran/> echo -e $CEKSAYA
+SulthanZahran ZCZCSCRIPTSTART 200606-140538 SulthanZahran
+ SulthanZahran SulthanZahran 200606-140613-befa-sulthan.zahran/ 200606-140613 SEQOK SUMOK befa6b15
+ SulthanZahran SulthanZahran 200606-140621-3ce3-sulthan.zahran/ 200606-140621 SEQOK SUMOK 3ce3cf68
+ SulthanZahran SulthanZahran 200606-140635-0aaa-sulthan.zahran/ 200606-140635 SEQOK SUMOK 0aaa4a7b
+ SulthanZahran SulthanZahran 200606-140643-d0af-sulthan.zahran/ 200606-140643 SEQOK SUMOK d0af60c5
+ SulthanZahran ZCZCSCRIPTSTOP 200606-140652 SEQOK
+200609-034907-9788-sulthan.zahran/> echo -e $CEKSEBELA1
+SulthanZahran ZCZCSCRIPTSTART 200601-143016 syannelimarwan
+ SulthanZahran syannelimarwan 200601-143039-5915-syanne.limarwan/ 200601-143039 SEQOK SUMOK 5915ca03
+ SulthanZahran syannelimarwan 200601-143044-7e17-syanne.limarwan/ 200601-143044 SEQOK SUMOK 7e17c3aa
+ SulthanZahran syannelimarwan 200601-143154-867a-syanne.limarwan/ 200601-143154 SEQOK SUMOK 867aaed1
+ SulthanZahran syannelimarwan 200601-143207-9db3-syanne.limarwan/ 200601-143207 SEQOK SUMOK 9db37ff1
+ SulthanZahran ZCZCSCRIPTSTOP 200601-143218 SEQOK
+200609-034915-524c-sulthan.zahran/> echo -e $CEKSEBELA2
+SulthanZahran ZCZCSCRIPTSTART 200608-230511 taritrinatha
+ SulthanZahran taritrinatha 200608-230523-6256-tari.trinatha/200608-230523 SEQOK SUMOK 62563d81
+ SulthanZahran taritrinatha 200608-230523-6256-tari.trinatha/200608-230523 SEQOK SUMOK 62563d81
+ SulthanZahran taritrinatha 200608-230527-905b-tari.trinatha/200608-230527 SEQOK SUMOK 905b44f4
+ SulthanZahran taritrinatha 200608-230535-17f6-tari.trinatha/200608-230535 SEQOK SUMOK 17f66845
+ SulthanZahran ZCZCSCRIPTSTOP 200608-230540 SEQOK
+200609-034922-8918-sulthan.zahran/> exit
+exit
+
+Script done on Tue 09 Jun 2020 03:49:30 AM WIB
