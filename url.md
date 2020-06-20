@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink : URLs/
+permalink : /URLs/
 ---
 <div>
     <p>link-link berguna seputar Sistem Operasi</p>

@@ -15,5 +15,5 @@ layout: default
 <p>Halaman ini merupakan salah satu tugas dari mata kuliah Sistem Operasi</p>
 
 <div>    
-    <a href="URLs/">link-link berguna seputar Sistem Operasi</a>
+    <a href="/URLs/">link-link berguna seputar Sistem Operasi</a>
 </div>
